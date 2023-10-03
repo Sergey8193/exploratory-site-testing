@@ -1,10 +1,10 @@
 # exploratory-site-testing
 
 ОТЧЕТ ПО РЕЗУЛЬТАТАМ ТЕСТИРОВАНИЯ САЙТА
-**«обучение-профессии.рф»**
+**«ОБУЧЕНИЕ-ПРОФЕССИИ.РФ»**
 
 
-[![логотип](https://github.com/Sergey8193/exploratory-site-testing/blob/main/logo/tgu-qa-logo.png "Лого")](https://github.com/Sergey8193/exploratory-site-testing/)
+[![логотип](https://github.com/Sergey8193/exploratory-site-testing/blob/main/logo/tgu-qa-logo.webp "Лого")](https://github.com/Sergey8193/exploratory-site-testing/)
 
 Отчет стал результатом окончания курса 
 «Тестировщик программного обеспечения – старт в профессии», 
