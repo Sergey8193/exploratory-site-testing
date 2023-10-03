@@ -4,7 +4,7 @@
 **«ОБУЧЕНИЕ-ПРОФЕССИИ.РФ»**
 
 
-[![логотип](https://github.com/Sergey8193/exploratory-site-testing/blob/main/logo/tgu-qa-logo.webp "Лого")](https://github.com/Sergey8193/exploratory-site-testing/)
+[![логотип](https://github.com/Sergey8193/exploratory-site-testing/blob/main/logo/tgu-qa-logo.webp "Лого")](https://www.tgu-dpo.ru/program/softwaretesting/)
 
 Отчет стал результатом окончания курса 
 «Тестировщик программного обеспечения – старт в профессии», 
